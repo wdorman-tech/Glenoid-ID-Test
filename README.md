@@ -1,5 +1,5 @@
 # Glenoid-ID-Test
-This software was developed on python to prove the real world feasibility of an idea outlined in the research paper "Glenoid Fossa Probe Proposal using iPhone camera and LiDAR sensor" by William Dorman.
+This software was developed on python with the assistance of Anthropic's Claude Sonnet 3.5 to prove the real world feasibility of an idea outlined in the research paper "Glenoid Fossa Probe Proposal using iPhone camera and LiDAR sensor" by William Dorman.
 
 # How To Run: 
 1. Download the zipped file in the releases section
